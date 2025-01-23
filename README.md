@@ -22,7 +22,7 @@ For public repositories:
 
 | [WeightLog](https://github.com/RoBoT095/weightlog) | [Print(Notes)](https://github.com/RoBoT095/printnotes) |
 | - | - |
-| <img src="https://github.com/RoBoT095/weightlog/blob/main/images/WeightLogIcon.png?raw=true" width="100"/> | <img src="https://github.com/RoBoT095/printnotes/blob/main/assets/app_icon.png?raw=true" width="100"/> |
+| <a href="https://github.com/RoBoT095/weightlog"><img src="https://github.com/RoBoT095/weightlog/blob/main/images/WeightLogIcon.png?raw=true" width="100"/></a> | <a href="https://github.com/RoBoT095/printnotes"><img src="https://github.com/RoBoT095/printnotes/blob/main/assets/app_icon.png?raw=true" width="100"/></a> |
 
 
 ---
