@@ -1,8 +1,8 @@
 # :coffee: Welcome to my Page! :pizza:
 
-I'm a **developer** and **tech enthusiast**, who enjoys everything from building, fixing, programming, and self-hosting all types of machine or software.
+I'm a **hobby developer** and **tech enthusiast**, who enjoys everything from building, fixing, programming, and self-hosting on all types of machines and software.
 
-I advocate for open source software and right to repair, so I try to make the projects intended for everyone's use to be available here on **github** for all to see
+I advocate for open source software and right to repair, so I try to make the projects intended for everyone's use to be available here on **github** for all to see.
 
 ## :pushpin: Programming Languages
 
