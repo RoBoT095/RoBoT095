@@ -27,6 +27,10 @@ For public repositories:
 
 ---
 
+### :email: Contact Me:
+
+Email: robot095@robot095.com
+
 ### :money_with_wings: Support Me:
 
 Feel free to support me and my work
